@@ -1,0 +1,40 @@
+{
+  "name": "safenet-browser-client",
+  "homepage": "https://github.com/traktion0/safenet-browser-client",
+  "authors": [
+    "Paul Green <traktion0@gmail.com>"
+  ],
+  "description": "Client library for accessing the Safe Net Launcher REST API via a web browser",
+  "main": "src/safeapi.js",
+  "moduleType": [],
+  "keywords": [
+    "safe",
+    "api",
+    "browser",
+    "safenet",
+    "safe",
+    "net",
+    "rest"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-route": "~1.4.0",
+    "angular-loader": "~1.4.0",
+    "angular-mocks": "~1.4.0",
+    "html5-boilerplate": "~5.2.0",
+    "libsodium.js": "^0.2.12",
+    "angular-resource": "^1.5.2",
+    "angular-cookies": "^1.5.2",
+    "js-sha256": "^0.3.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples",
+    "README.md"
+  ]
+}
