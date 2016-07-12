@@ -81,10 +81,10 @@ angular.module('SafeAPIExample', ['ngRoute', 'ngCookies', 'ng'])
 
             var properties = {
                 'app': {
-                    'name': 'LazyDogBlog',
+                    'name': 'ExampleApp',
                     'version': '0.1',
-                    'vendor': 'traktion',
-                    'id': 'traktion.safenet'
+                    'vendor': 'example',
+                    'id': 'example.safenet'
                 },
                 'permissions': ['SAFE_DRIVE_ACCESS']
             };
