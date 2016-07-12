@@ -23,10 +23,10 @@
     "angular-loader": "~1.4.0",
     "angular-mocks": "~1.4.0",
     "html5-boilerplate": "~5.2.0",
-    "libsodium.js": "^0.2.12",
-    "angular-resource": "^1.5.2",
-    "angular-cookies": "^1.5.2",
-    "js-sha256": "^0.3.0"
+    "libsodium.js": "~0.2.12",
+    "angular-resource": "~1.4.0",
+    "angular-cookies": "~1.4.0",
+    "js-sha256": "~0.3.0"
   },
   "ignore": [
     "**/.*",
